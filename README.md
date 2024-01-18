@@ -11,12 +11,16 @@ This project discusses the design procedure of a conventional Low Dropout Voltag
 ![image](https://github.com/muhammadaldacher/Analog-Design-of-LDO-with-PMOS-pass-device/assets/27668656/779d58ed-b0b7-4045-a87f-d913e7117054)
 
 ---------------------------------
-### Results
+### Simulations
 ##### a) Monte Carlo - Offset Variation:
 ![image](https://github.com/muhammadaldacher/Analog-Design-of-LDO-with-PMOS-pass-device/assets/27668656/8552fb67-19e8-4355-987b-ec0791c3572e)
 ##### b) AC & STB - PSRR, PM, & Noise:
 ![image](https://github.com/muhammadaldacher/Analog-Design-of-LDO-with-PMOS-pass-device/assets/27668656/edb382bc-11f1-4707-9be3-1aa06c38bea6)
+##### c) Noise:
 ![image](https://github.com/muhammadaldacher/Analog-Design-of-LDO-with-PMOS-pass-device/assets/27668656/21a15c60-3e29-4d39-8f61-4da8ecde4400)
-##### c) Step-Load (Transient) VS AC/STB Sweep:
+##### d) Step-Load (Transient) VS AC/STB Sweep:
 ![image](https://github.com/muhammadaldacher/Analog-Design-of-LDO-with-PMOS-pass-device/assets/27668656/72178e32-9294-46df-beeb-e02bfb226804)
 
+---------------------------------
+### Results Summary
+![image](https://github.com/muhammadaldacher/Analog-Design-of-LDO-with-PMOS-pass-device/assets/27668656/40321b3d-723c-4004-89f0-b245974f20e1)
