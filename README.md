@@ -27,9 +27,9 @@ This project discusses the design procedure of a conventional Low Dropout Voltag
 
 ---------------------------------
 ### Key References:
-[1]	P. K. Hanumolu, "Low dropout regulators," 2015 IEEE Custom Integrated Circuits Conference (CICC), San Jose, CA, USA, 2015, pp. 1-37, doi: 10.1109/CICC.2015.7338435.
-[2]	T. Carusone, D. Jones, K. Martin, "Analog Integrated Circuit Design", 2nd Ed., Ch.7: Biasing, References & Regulators, John Wiley & Sons, Inc, 2012.
-[3]	B. Razavi, "The Low Dropout Regulator [A Circuit for All Seasons]," in IEEE Solid-State Circuits Magazine, vol. 11, no. 2, pp. 8-13, Spring 2019, doi: 10.1109/MSSC.2019.2910952.
+[1]	P. K. Hanumolu, "Low dropout regulators," 2015 IEEE Custom Integrated Circuits Conference (CICC), San Jose, CA, USA, 2015, pp. 1-37, doi: 10.1109/CICC.2015.7338435.</br></br>
+[2]	T. Carusone, D. Jones, K. Martin, "Analog Integrated Circuit Design", 2nd Ed., Ch.7: Biasing, References & Regulators, John Wiley & Sons, Inc, 2012.</br></br>
+[3]	B. Razavi, "The Low Dropout Regulator [A Circuit for All Seasons]," in IEEE Solid-State Circuits Magazine, vol. 11, no. 2, pp. 8-13, Spring 2019, doi: 10.1109/MSSC.2019.2910952.</br></br>
 
 ---------------------------------
 ### Project Links:
