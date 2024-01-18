@@ -24,3 +24,16 @@ This project discusses the design procedure of a conventional Low Dropout Voltag
 ---------------------------------
 ### Results Summary
 ![image](https://github.com/muhammadaldacher/Analog-Design-of-LDO-with-PMOS-pass-device/assets/27668656/40321b3d-723c-4004-89f0-b245974f20e1)
+
+---------------------------------
+### Key References:
+[1]	P. K. Hanumolu, "Low dropout regulators," 2015 IEEE Custom Integrated Circuits Conference (CICC), San Jose, CA, USA, 2015, pp. 1-37, doi: 10.1109/CICC.2015.7338435.
+[2]	T. Carusone, D. Jones, K. Martin, "Analog Integrated Circuit Design", 2nd Ed., Ch.7: Biasing, References & Regulators, John Wiley & Sons, Inc, 2012.
+[3]	B. Razavi, "The Low Dropout Regulator [A Circuit for All Seasons]," in IEEE Solid-State Circuits Magazine, vol. 11, no. 2, pp. 8-13, Spring 2019, doi: 10.1109/MSSC.2019.2910952.
+
+---------------------------------
+### Project Links:
+1) Report: [Project_Report_LDO.pdf](https://github.com/muhammadaldacher/Analog-Design-of-LDO-with-PMOS-pass-device/blob/main/Project_Report_LDO.pdf)
+2) Testbench Details: [Testbenches_&_Results.pptx](https://github.com/muhammadaldacher/Analog-Design-of-LDO-with-PMOS-pass-device/blob/main/Testbenches_%26_Results.pptx)
+3) Hand Analysis: [ldo_hand_analysis.pdf](https://github.com/muhammadaldacher/Analog-Design-of-LDO-with-PMOS-pass-device/blob/main/ldo_hand_analysis.pdf)
+</br></br> >> Drive: https://drive.google.com/drive/folders/1lhqr3ftbG6R5mv5Qr27eAjxs_dBoFz7P?usp=drive_link
